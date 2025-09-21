@@ -1,9 +1,9 @@
-'''
+"""
 Online Shopping Cart Program
 This program defines a class to represent an item in a shopping cart
 the user is asked to input the details required for their 2 selected items
 the program calculates the cost of both items and displays the total to the user
-'''
+"""
 
 # STEP 1: Define the class
 class ItemToPurchase:
